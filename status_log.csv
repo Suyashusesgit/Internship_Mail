@@ -1,0 +1,5 @@
+Email,Status,Reason
+amit@example.com,Sent,
+priya@example.in,Sent,
+invalid_email,Failed,Invalid Email Format
+nan,Failed,Invalid Email Format

@@ -1,0 +1,5 @@
+Professor_Name,Email,Department,Research_Interest
+Dr. Amit Shah,amit@example.com,ECE,Embedded Systems
+Dr. Priya Ray,priya@example.in,Robotics,ROS 2 Navigation
+Invalid Prof,invalid_email,CS,AI
+Dr. Null Email,,CS,AI
