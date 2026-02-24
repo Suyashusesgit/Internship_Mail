@@ -1,5 +1,5 @@
 Email,Status,Reason
-amit@example.com,Sent,
+amit@example.com,Skipped,Already in sent_log.csv
 priya@example.in,Sent,
 invalid_email,Failed,Invalid Email Format
 nan,Failed,Invalid Email Format
